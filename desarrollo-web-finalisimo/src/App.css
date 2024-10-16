@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+/* src/App.css */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #282c34; /* Cambia el fondo si quieres */
+  color: white; /* Texto blanco por defecto */
+}
+
+h1, h2 {
+  color: white; /* Color de encabezados */
+}
+

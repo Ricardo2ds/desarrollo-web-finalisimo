@@ -1,0 +1,25 @@
+/* src/components/AdminInicio.css */
+.admin-inicio {
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.1);
+    color: white;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: rgba(255, 255, 255, 0.3);
+}
+
+tr:nth-child(even) {
+    background-color: rgba(255, 255, 255, 0.2);
+}
